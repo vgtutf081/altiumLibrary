@@ -210,23 +210,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LTSSXGOO
 
 [Document11]
-DocumentPath=..\AltiumComponentLibraries\BatteryChargers\Footprint.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AXXKDOMM
-
-[Document12]
 DocumentPath=..\AltiumComponentLibraries\PowerManagement\PowerManagementFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMNOBLXQ
 
-[Document13]
+[Document12]
 DocumentPath=Mylib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKLJYMGX
 
-[Document14]
+[Document13]
 DocumentPath=Mylib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
