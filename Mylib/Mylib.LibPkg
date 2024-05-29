@@ -47,6 +47,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\ElectronicComponents\AltiumComponentLibraries\FootprintLibraries\SSOP_Footprints\SSOP_Footprints.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JGJVTTCI
+
+[Document2]
 DocumentPath=..\..\..\ElectronicComponents\AltiumComponentLibraries\FootprintLibraries\TSSOP_Footprints\TSSOP_Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,7 +80,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBLAQMDJ
 
-[Document2]
+[Document3]
 DocumentPath=Mylib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -80,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKLJYMGX
 
-[Document3]
+[Document4]
 DocumentPath=Mylib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -97,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URZRDTKY
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\ElectronicComponents\AltiumComponentLibraries\FootprintLibraries\SOT_Footprints\SOT_Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
